@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <meta charset ="utf-8">
+     <title>Intrapage Hyperlink in HTML</title>
+</head>
+<body>
+        <p>Know About <a href="https://en.wikipedia.org/wiki/BTS">BTS</a></p><br>
+        <p>Watch <a href="https://www.youtube.com/watch?v=CuklIb9d3fI" target="_blank">BTS - Permission To Dance</a><p><br>
+        <a href="nishabts7@gmail.com">Send mail to Nisha</a><br>
+</body>
+</html>
